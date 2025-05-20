@@ -1,2 +1,2 @@
 # web dev
-<a herf="https://github.com/web-x-rex/web-dev">Project URL</a>
+<a herf="https://github.com/web-x-rex/web-dev">project URL</a>
